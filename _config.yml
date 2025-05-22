@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ghibli-profile.jpg"
   name             : "Scott Klasek"
   pronouns         : "he/him"  
-  bio              : "Short biography for left-hand sidebar"
+  bio              : "Microbial Bioinformatics Scientist"
   location         : "Minneapolis, MN, USA"
   employer         : "University of Minnesota"
   uri              : # URL
